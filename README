@@ -1,12 +1,11 @@
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
-this is a personal build of dwm with pywal and ligature support.
+
 
 Requirements
 ------------
-In order to build dwm you need the Xlib header files and pywal installed and configured.
-In order for emojis to work, ensure that libXft has been patched with the bgra patch.
+In order to build dwm you need the Xlib header files.
 
 
 Installation
